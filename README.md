@@ -2,7 +2,7 @@
 
 ## 📖 Um pouco sobre mim
 Sou um desenvolver Full Stack em início de carreira, e atualmente estou no 4° semestre de ADS e
-busco subir um degrau a cada dia por meio da plataforma DIO! 🚀
+busco subir um degrau a cada dia na minha jornada como programador! 🚀
 
 ## 📈 Meus Stats
 <div align="center">
