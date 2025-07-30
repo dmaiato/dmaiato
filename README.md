@@ -1,7 +1,7 @@
 # Opa, tudo jóia? Me chamo David Maiato! 🤘
 
 ## 📖 Um pouco sobre mim
-Sou um desenvolvedor Full Stack em início de carreira, atualmente estou no 4° semestre de ADS e
+Sou um desenvolvedor Full Stack em início de carreira, atualmente estou no 5° semestre de ADS e
 busco subir um degrau a cada dia na minha jornada como programador! 🚀
 
 ## 📈 Meus Stats
