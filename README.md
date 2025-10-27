@@ -32,5 +32,3 @@ I am a junior Software Engineer looking for new challenges and opportunities! �
 
 ### 🔧 Tools
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-
-### 🔗 Meus Links
