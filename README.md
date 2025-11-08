@@ -1,6 +1,6 @@
 # Hello There! 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-maiato-949617299/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-maiato/)
 
 ## 📖 About me
 I am a junior Software Engineer looking for new challenges and opportunities! 🚀
