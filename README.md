@@ -6,6 +6,8 @@
 I am a junior Software Engineer looking for new challenges and opportunities! 🚀<br/>
 My biggest goal is to be able to work with Rust in a professional environment. 🦀🖥️
 
+Former industrial automation technician. (C, MicroPython)
+
 ## 🧑‍💻 Skills
 ### 🖥️ Backend
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
