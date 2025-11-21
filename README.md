@@ -4,6 +4,7 @@
 
 ## 📖 About me
 I am a junior Software Engineer looking for new challenges and opportunities! 🚀
+My biggest goal is to be able to work with Rust in a professional environment. 🦀🖥️
 
 ## 🧑‍💻 Skills
 ### 🖥️ Backend
